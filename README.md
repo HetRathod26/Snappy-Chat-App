@@ -13,16 +13,20 @@
 
 ## 📸 App Screenshots
 
-### 🔐 Login & Sign-Up Pages
-![Login Page]![image](https://github.com/user-attachments/assets/88463065-418c-4a03-9c0c-63770ec46134)
+### 🔐 Login
+[image](https://github.com/user-attachments/assets/88463065-418c-4a03-9c0c-63770ec46134)
 
-![Register Page](images/register.png)
+### Sign-Up Pages
+![image](https://github.com/user-attachments/assets/b14eb3a7-841d-44c6-8f80-10bdc6b6fcd3)
+
 
 ### 🧑‍🤝‍🧑 Chat Interface
-![Chat Page](images/chat.png)
+![image](https://github.com/user-attachments/assets/303872c9-7338-47fb-9b24-6eef6844e196)
+
 
 ### 🖼️ Avatar Selection
-![Avatar Page](images/avatar.png)
+![image](https://github.com/user-attachments/assets/3a7d705d-df67-47a6-bade-eabdf20a7bdf)
+
 
 ## 🛠️ Tech Stack
 
@@ -33,5 +37,5 @@
 - **Authentication:** JWT
 - **Encryption:** AES (crypto-js)
 
-## 📂 Folder Structure
+
 
