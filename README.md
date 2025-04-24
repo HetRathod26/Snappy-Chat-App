@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8a971ff-4790-4bda-9c4f-d932d79ffa9f)# 💬 Snappy – Real-Time Secure Chat App
+# 💬 Snappy – Real-Time Secure Chat App
 
 **Snappy** is a real-time messaging application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It supports **user authentication**, **end-to-end encryption**, and a dynamic chat interface, designed for fast and secure communication.
 
