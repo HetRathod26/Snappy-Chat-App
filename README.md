@@ -36,6 +36,7 @@
 - **Real-Time:** Socket.io
 - **Authentication:** JWT
 - **Encryption:** AES (crypto-js)
+###📦 Download Snappy.zip (full project): [Click here](https://drive.google.com/file/d/1cCae8bcOL7V4_a0XYnpzcE07zzdTqA1r/view?usp=sharing)
 
 ### Installation
 
