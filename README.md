@@ -1,4 +1,4 @@
-# 💬 Snappy – Real-Time Secure Chat App
+![image](https://github.com/user-attachments/assets/f8a971ff-4790-4bda-9c4f-d932d79ffa9f)# 💬 Snappy – Real-Time Secure Chat App
 
 **Snappy** is a real-time messaging application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It supports **user authentication**, **end-to-end encryption**, and a dynamic chat interface, designed for fast and secure communication.
 
@@ -36,6 +36,48 @@
 - **Real-Time:** Socket.io
 - **Authentication:** JWT
 - **Encryption:** AES (crypto-js)
+
+### Installation
+
+#### First Method
+```shell
+git clone 
+cd chat-app-react-nodejs
+```
+Now rename env files from .env.example to .env
+```shell
+cd public
+mv .env.example .env
+cd ..
+cd server
+mv .env.example .env
+cd ..
+```
+
+Now install the dependencies
+```shell
+cd server
+yarn
+cd ..
+cd public
+yarn
+```
+We are almost done, Now just start the development server.
+
+For Frontend.
+```shell
+cd public
+yarn start
+```
+For Backend.
+
+Open another terminal in folder, Also make sure mongodb is running in background.
+```shell
+cd server
+yarn start
+```
+Done! Now open localhost:3000 in your browser.
+
 
 
 
