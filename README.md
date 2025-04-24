@@ -14,7 +14,7 @@
 ## 📸 App Screenshots
 
 ### 🔐 Login
-[image](https://github.com/user-attachments/assets/88463065-418c-4a03-9c0c-63770ec46134)
+(https://github.com/user-attachments/assets/88463065-418c-4a03-9c0c-63770ec46134)
 
 ### Sign-Up Pages
 ![image](https://github.com/user-attachments/assets/b14eb3a7-841d-44c6-8f80-10bdc6b6fcd3)
@@ -36,7 +36,9 @@
 - **Real-Time:** Socket.io
 - **Authentication:** JWT
 - **Encryption:** AES (crypto-js)
-###📦 Download Snappy.zip (full project): [Click here](https://drive.google.com/file/d/1cCae8bcOL7V4_a0XYnpzcE07zzdTqA1r/view?usp=sharing)
+  
+> 📦 **Download the full Snappy project as ZIP**  
+> [🔗 Google Drive Link](https://drive.google.com/file/d/1cCae8bcOL7V4_a0XYnpzcE07zzdTqA1r/view?usp=sharing)
 
 ### Installation
 
